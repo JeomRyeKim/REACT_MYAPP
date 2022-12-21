@@ -18,6 +18,10 @@ const comments = [
         name: "이순신",
         comment: "감기 조심하세요~!",
     },
+    {
+        name: "강감찬",
+        comment: "날이 많이 춥네요~",
+    },
 ];
 
 function CommentList(props) {

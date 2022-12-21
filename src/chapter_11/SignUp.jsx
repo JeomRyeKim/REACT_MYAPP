@@ -15,7 +15,7 @@ function SignUp(props) {
     const handleSubmit = (event) => {
         alert(`이름: ${name}, 성별: ${gender}`);
 
-        // a태그나 submit 태그를 누를 때 href를 통해 이동, 새로고침을 막아주는 것
+        // a태그나 submit 태그를 누를 때 href를 통해 이동, 새로고침을 막아줌
         event.preventDefault();
     };
 

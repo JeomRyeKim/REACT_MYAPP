@@ -20,7 +20,7 @@ const comments = [
     },
     {
         name: "강감찬",
-        comment: "날이 많이 춥네요~",
+        comment: "날이 많이 춥네요~~~",
     },
 ];
 
